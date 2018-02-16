@@ -1,0 +1,6 @@
+c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\LINQModule\LINQModule\bin\Debug\LINQModule.exe.config
+c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\LINQModule\LINQModule\bin\Debug\LINQModule.exe
+c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\LINQModule\LINQModule\bin\Debug\LINQModule.pdb
+c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\LINQModule\LINQModule\obj\Debug\LINQModule.csprojResolveAssemblyReference.cache
+c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\LINQModule\LINQModule\obj\Debug\LINQModule.exe
+c:\users\aliaksandr_horski\documents\visual studio 2015\Projects\LINQModule\LINQModule\obj\Debug\LINQModule.pdb
